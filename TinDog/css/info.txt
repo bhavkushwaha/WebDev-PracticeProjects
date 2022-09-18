@@ -1,0 +1,1 @@
+This directory consists of the CSS code applied in the website.
