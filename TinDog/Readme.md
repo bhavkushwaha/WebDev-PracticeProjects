@@ -1,3 +1,5 @@
+# TinDog
+HTML5, CSS3 and Bootstrap4 was used to create this static website.
 
 ![img1](https://user-images.githubusercontent.com/75977991/190889545-4f3a1c3f-a29c-429b-8e19-8f6a4b6c54df.JPG)
 ![img2](https://user-images.githubusercontent.com/75977991/190889549-f61a4d9b-1701-4fab-9b0c-3b8b3cdc000b.JPG)
